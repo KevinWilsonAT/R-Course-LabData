@@ -10,3 +10,7 @@
 </h2>
 
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=fff&style=for-the-badge)
+
+### Linguagens do repositório:
+
+<img src="https://img.shields.io/badge/R-198CE7?style=for-the-badge"><!-- -->
